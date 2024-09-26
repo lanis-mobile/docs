@@ -1,2 +1,3 @@
-# docs
-Documentation for the Lanis-Mobile Project and parsing the School Portal
+Die App wird von Schülern entwickelt und deshalb wird es nicht immer Maintainer geben. Mit dem Wiki/der Doku will ich einen schnellen Einstieg in die Codebase und vor allem das SPH-Parsing ermöglichen. Die größte Schwierigkeit bei der Entwicklung der App ist die modulare Natur des Schulportals. (Oft sind bestimmte Elemente nicht da und oft sind die Applets auch unterschiedlich.)
+
+Die Dokumentation besteht aus zwei verschiedenen Teilen. Ein Teil beschäftigt sich mit dem SPH-Parsing (Datenbeschaffung, API etc.) und der andere Teil beschäftigt sich mit der App selbst und wie sie bestimmte Dinge implementiert.
